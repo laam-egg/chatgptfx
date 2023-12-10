@@ -1,4 +1,4 @@
-Copyright (c) 2023-now Vu Tung Lam.
+Copyright (c) 2023-now Vũ Tùng Lâm.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
