@@ -34,7 +34,7 @@ public class App extends Application {
             configurationManager = new ConfigurationManager();
 
             stage.setResizable(false);
-            stage.setTitle("JavaFX Chat App");
+            stage.setTitle("ChatGPTFX");
 
             FXMLLoader loader = new FXMLLoader();
 
