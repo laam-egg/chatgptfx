@@ -1,0 +1,50 @@
+* {
+    font-family: Roboto, serif;
+    font-size: 13px;
+}
+
+.message-error {
+    color: red;
+}
+
+.message-error-details {
+    font-size: 11px;
+}
+
+.message-self-wrapper, .message-other-wrapper {
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+    width: 200px;
+    word-wrap: break-word;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* https://usbrandcolors.com/messenger-colors/ */
+.message-self-wrapper {
+    background: linear-gradient(#00B2FF, #006AFF);
+    color: white;
+}
+
+.message-other-wrapper {
+    background: #eee;
+    color: black;
+}
+
+.message-self-wrapper {
+    align-self: flex-end;
+}
+
+.message-row {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-box {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
